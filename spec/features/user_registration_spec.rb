@@ -33,4 +33,16 @@ RSpec.describe "User Registration page", type: :feature do
    
     expect(page).to have_content("jeffschmoe@mail.com has already been taken")
   end
+
+  it 'fails to create user due to non matching passwords' do 
+    visit '/register'
+    fill_in 'Name', with: 'Mars Volta'
+    fill_in 'Email', with: 'mvolta@mail.com'
+    fill_in 'Password', with: 'music123'
+    fill_in 'Password Confirmation', with: 'usic123'
+
+    click_button 'Register'
+   
+    expect(page).to have_content('Password and password confirmation do not match')
+  end
 end
