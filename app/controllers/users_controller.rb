@@ -11,6 +11,9 @@ class UsersController < ApplicationController
     if @user.save
       flash[:success] = 'User created!'
       redirect_to user_path(@user)
+    elsif params[:password] != params[:password_confirmation]
+      flash[:alert] = 'Password and password confirmation do not match'
+      redirect_to '/register'
     else
       flash[:alert] = "#{user_params[:email]} has already been taken, please try another email address."
       redirect_to '/register'
