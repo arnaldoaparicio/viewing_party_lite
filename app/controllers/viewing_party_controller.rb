@@ -1,5 +1,4 @@
 class ViewingPartyController < ApplicationController
-
   def conn
     Faraday.new(url: 'https://api.themoviedb.org/3/') do |faraday|
       faraday.params['api_key'] = ENV['movies_api_key']
@@ -35,15 +34,16 @@ class ViewingPartyController < ApplicationController
     end
 
     if @viewing_party.save
-      flash[:success] = "Party created!"
+      flash[:success] = 'Party created!'
       redirect_to user_path(user)
     else
-      flash[:alert] = "Could not create party, please try again."
+      flash[:alert] = 'Could not create party, please try again.'
       redirect_to "/users/#{user1.id}/movies/497698/viewing-party/new"
     end
   end
 
   private
+
   def party_params
     params.permit(:duration, :when, :time)
   end
