@@ -25,7 +25,7 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Thu, 03 Feb 2022 15:45:45 GMT
+      - Wed, 16 Feb 2022 18:47:06 GMT
       Server:
       - openresty
       Access-Control-Allow-Origin:
@@ -40,32 +40,34 @@ http_interactions:
       Vary:
       - Accept-Encoding
       X-Cache:
-      - Miss from cloudfront
+      - Hit from cloudfront
       Via:
-      - 1.1 a075746ea1824aa1c02a5e26a9e968e4.cloudfront.net (CloudFront)
+      - 1.1 20579d8c7e6a7d159f211e9ee1d4003c.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - IAD89-C3
       X-Amz-Cf-Id:
-      - VKzxT-C-oVWeoxk_415zmwGFNEoTbcZ9Q8RBZ1LOKCe5VzLm9LpaEw==
+      - KfEmEUMWi_G7oP4WdvFTXfn0lNO9-CgM_dNvu1oLrn-i2dT3dIDK1Q==
+      Age:
+      - '1'
     body:
       encoding: UTF-8
       string: '{"page":1,"results":[{"adult":false,"backdrop_path":"/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg","genre_ids":[28,12,878],"id":634649,"original_language":"en","original_title":"Spider-Man:
         No Way Home","overview":"Peter Parker is unmasked and no longer able to separate
         his normal life from the high-stakes of being a super-hero. When he asks for
         help from Doctor Strange the stakes become even more dangerous, forcing him
-        to discover what it truly means to be Spider-Man.","popularity":16819.659,"poster_path":"/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg","release_date":"2021-12-15","title":"Spider-Man:
-        No Way Home","video":false,"vote_average":8.4,"vote_count":6856},{"adult":false,"backdrop_path":"/tutaKitJJIaqZPyMz7rxrhb4Yxm.jpg","genre_ids":[35,16,10751,10402],"id":438695,"original_language":"en","original_title":"Sing
+        to discover what it truly means to be Spider-Man.","popularity":7902.493,"poster_path":"/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg","release_date":"2021-12-15","title":"Spider-Man:
+        No Way Home","video":false,"vote_average":8.4,"vote_count":7810},{"adult":false,"backdrop_path":"/tutaKitJJIaqZPyMz7rxrhb4Yxm.jpg","genre_ids":[35,16,10751,10402],"id":438695,"original_language":"en","original_title":"Sing
         2","overview":"Buster and his new cast now have their sights set on debuting
         a new show at the Crystal Tower Theater in glamorous Redshore City. But with
         no connections, he and his singers must sneak into the Crystal Entertainment
         offices, run by the ruthless wolf mogul Jimmy Crystal, where the gang pitches
         the ridiculous idea of casting the lion rock legend Clay Calloway in their
         show. Buster must embark on a quest to find the now-isolated Clay and persuade
-        him to return to the stage.","popularity":2373.035,"poster_path":"/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg","release_date":"2021-12-01","title":"Sing
-        2","video":false,"vote_average":8.3,"vote_count":1596},{"adult":false,"backdrop_path":"/oE6bhqqVFyIECtBzqIuvh6JdaB5.jpg","genre_ids":[878,18,12],"id":522402,"original_language":"en","original_title":"Finch","overview":"On
+        him to return to the stage.","popularity":1597.43,"poster_path":"/aWeKITRFbbwY8txG5uCj4rMCfSP.jpg","release_date":"2021-12-01","title":"Sing
+        2","video":false,"vote_average":8.2,"vote_count":1860},{"adult":false,"backdrop_path":"/oE6bhqqVFyIECtBzqIuvh6JdaB5.jpg","genre_ids":[878,18,12],"id":522402,"original_language":"en","original_title":"Finch","overview":"On
         a post-apocalyptic Earth, a robot, built to protect the life of his dying
         creator''s beloved dog, learns about life, love, friendship, and what it means
-        to be human.","popularity":522.372,"poster_path":"/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg","release_date":"2021-11-04","title":"Finch","video":false,"vote_average":8.1,"vote_count":1910},{"adult":false,"backdrop_path":"/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg","genre_ids":[28,878,12],"id":588228,"original_language":"en","original_title":"The
+        to be human.","popularity":432.789,"poster_path":"/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg","release_date":"2021-11-04","title":"Finch","video":false,"vote_average":8.1,"vote_count":1976},{"adult":false,"backdrop_path":"/yizL4cEKsVvl17Wc1mGEIrQtM2F.jpg","genre_ids":[28,878,12],"id":588228,"original_language":"en","original_title":"The
         Tomorrow War","overview":"The world is stunned when a group of time travelers
         arrive from the year 2051 to deliver an urgent message: Thirty years in the
         future, mankind is losing a global war against a deadly alien species. The
@@ -73,88 +75,84 @@ http_interactions:
         transported to the future and join the fight. Among those recruited is high
         school teacher and family man Dan Forester. Determined to save the world for
         his young daughter, Dan teams up with a brilliant scientist and his estranged
-        father in a desperate quest to rewrite the fate of the planet.","popularity":319.354,"poster_path":"/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg","release_date":"2021-07-02","title":"The
-        Tomorrow War","video":false,"vote_average":8,"vote_count":5031},{"adult":false,"backdrop_path":"/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg","genre_ids":[16,35,10751,14],"id":508943,"original_language":"en","original_title":"Luca","overview":"Luca
+        father in a desperate quest to rewrite the fate of the planet.","popularity":320.406,"poster_path":"/34nDCQZwaEvsy4CFO5hkGRFDCVU.jpg","release_date":"2021-07-02","title":"The
+        Tomorrow War","video":false,"vote_average":8,"vote_count":5094},{"adult":false,"backdrop_path":"/620hnMVLu6RSZW6a5rwO8gqpt0t.jpg","genre_ids":[16,35,10751,14],"id":508943,"original_language":"en","original_title":"Luca","overview":"Luca
         and his best friend Alberto experience an unforgettable summer on the Italian
         Riviera. But all the fun is threatened by a deeply-held secret: they are sea
-        monsters from another world just below the water’s surface.","popularity":498.742,"poster_path":"/jTswp6KyDYKtvC52GbHagrZbGvD.jpg","release_date":"2021-06-17","title":"Luca","video":false,"vote_average":8,"vote_count":5679},{"adult":false,"backdrop_path":"/wYMbnrdRCREjNLwFlG5SLWzBjui.jpg","genre_ids":[878,12],"id":438631,"original_language":"en","original_title":"Dune","overview":"Paul
+        monsters from another world just below the water’s surface.","popularity":465.211,"poster_path":"/jTswp6KyDYKtvC52GbHagrZbGvD.jpg","release_date":"2021-06-17","title":"Luca","video":false,"vote_average":8,"vote_count":5771},{"adult":false,"backdrop_path":"/4rsomWxlqnHt3muGYK06auhOib6.jpg","genre_ids":[10749,18],"id":818647,"original_language":"es","original_title":"A
+        través de mi ventana","overview":"Raquel''s longtime crush on her next-door
+        neighbor turns into something more when he starts developing feelings for
+        her, despite his family''s objections.","popularity":1608.202,"poster_path":"/6gg7fvKc1ZxP9yCczweSxIGYp4S.jpg","release_date":"2022-02-04","title":"Through
+        My Window","video":false,"vote_average":7.9,"vote_count":1028},{"adult":false,"backdrop_path":"/jtVl3nN5bJ4t7pgakLfGJmOrqZm.jpg","genre_ids":[878,12],"id":438631,"original_language":"en","original_title":"Dune","overview":"Paul
         Atreides, a brilliant and gifted young man born into a great destiny beyond
         his understanding, must travel to the most dangerous planet in the universe
         to ensure the future of his family and his people. As malevolent forces explode
         into conflict over the planet''s exclusive supply of the most precious resource
         in existence-a commodity capable of unlocking humanity''s greatest potential-only
-        those who can conquer their fear will survive.","popularity":540.887,"poster_path":"/d5NXSklXo0qyIYkgV94XAgMIckC.jpg","release_date":"2021-09-15","title":"Dune","video":false,"vote_average":7.9,"vote_count":5762},{"adult":false,"backdrop_path":"/cinER0ESG0eJ49kXlExM0MEWGxW.jpg","genre_ids":[28,12,14],"id":566525,"original_language":"en","original_title":"Shang-Chi
+        those who can conquer their fear will survive.","popularity":513.078,"poster_path":"/d5NXSklXo0qyIYkgV94XAgMIckC.jpg","release_date":"2021-09-15","title":"Dune","video":false,"vote_average":7.9,"vote_count":5967},{"adult":false,"backdrop_path":"/t0BuUCkwoa3NrriHQdGOnCBSOdK.jpg","genre_ids":[18],"id":537116,"original_language":"en","original_title":"tick,
+        tick… BOOM!","overview":"On the cusp of his 30th birthday, Jonathon Larson,
+        a promising young theater composer, navigates love, friendship, and the pressures
+        of life as an artist in New York City.","popularity":105.832,"poster_path":"/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg","release_date":"2021-11-11","title":"tick,
+        tick… BOOM!","video":false,"vote_average":7.9,"vote_count":1004},{"adult":false,"backdrop_path":"/cinER0ESG0eJ49kXlExM0MEWGxW.jpg","genre_ids":[28,12,14],"id":566525,"original_language":"en","original_title":"Shang-Chi
         and the Legend of the Ten Rings","overview":"Shang-Chi must confront the past
         he thought he left behind when he is drawn into the web of the mysterious
-        Ten Rings organization.","popularity":1197.106,"poster_path":"/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg","release_date":"2021-09-01","title":"Shang-Chi
-        and the Legend of the Ten Rings","video":false,"vote_average":7.8,"vote_count":5451},{"adult":false,"backdrop_path":"/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg","genre_ids":[16,35,10751,14],"id":568124,"original_language":"en","original_title":"Encanto","overview":"The
+        Ten Rings organization.","popularity":1044.315,"poster_path":"/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg","release_date":"2021-09-01","title":"Shang-Chi
+        and the Legend of the Ten Rings","video":false,"vote_average":7.8,"vote_count":5627},{"adult":false,"backdrop_path":"/3G1Q5xF40HkUBJXxt2DQgQzKTp5.jpg","genre_ids":[16,35,10751,14],"id":568124,"original_language":"en","original_title":"Encanto","overview":"The
         tale of an extraordinary family, the Madrigals, who live hidden in the mountains
         of Colombia, in a magical house, in a vibrant town, in a wondrous, charmed
         place called an Encanto. The magic of the Encanto has blessed every child
         in the family with a unique gift from super strength to the power to heal—every
         child except one, Mirabel. But when she discovers that the magic surrounding
         the Encanto is in danger, Mirabel decides that she, the only ordinary Madrigal,
-        might just be her exceptional family''s last hope.","popularity":3602.361,"poster_path":"/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg","release_date":"2021-11-24","title":"Encanto","video":false,"vote_average":7.8,"vote_count":3817},{"adult":false,"backdrop_path":"/EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg","genre_ids":[35,14,12],"id":425909,"original_language":"en","original_title":"Ghostbusters:
+        might just be her exceptional family''s last hope.","popularity":3218.518,"poster_path":"/4j0PNHkMr5ax3IA8tjtxcmPU3QT.jpg","release_date":"2021-11-24","title":"Encanto","video":false,"vote_average":7.8,"vote_count":4351},{"adult":false,"backdrop_path":"/EnDlndEvw6Ptpp8HIwmRcSSNKQ.jpg","genre_ids":[14,35,12],"id":425909,"original_language":"en","original_title":"Ghostbusters:
         Afterlife","overview":"When a single mom and her two kids arrive in a small
         town, they begin to discover their connection to the original Ghostbusters
-        and the secret legacy their grandfather left behind.","popularity":2211.087,"poster_path":"/sg4xJaufDiQl7caFEskBtQXfD4x.jpg","release_date":"2021-11-11","title":"Ghostbusters:
-        Afterlife","video":false,"vote_average":7.7,"vote_count":1743},{"adult":false,"backdrop_path":"/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg","genre_ids":[28,12,14],"id":436969,"original_language":"en","original_title":"The
+        and the secret legacy their grandfather left behind.","popularity":1572.988,"poster_path":"/sg4xJaufDiQl7caFEskBtQXfD4x.jpg","release_date":"2021-11-11","title":"Ghostbusters:
+        Afterlife","video":false,"vote_average":7.7,"vote_count":1992},{"adult":false,"backdrop_path":"/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg","genre_ids":[35,28,12,878],"id":550988,"original_language":"en","original_title":"Free
+        Guy","overview":"A bank teller called Guy realizes he is a background character
+        in an open world video game called Free City that will soon go offline.","popularity":544.024,"poster_path":"/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg","release_date":"2021-08-11","title":"Free
+        Guy","video":false,"vote_average":7.7,"vote_count":4939},{"adult":false,"backdrop_path":"/jlGmlFOcfo8n5tURmhC7YVd4Iyy.jpg","genre_ids":[28,12,14],"id":436969,"original_language":"en","original_title":"The
         Suicide Squad","overview":"Supervillains Harley Quinn, Bloodsport, Peacemaker
         and a collection of nutty cons at Belle Reve prison join the super-secret,
         super-shady Task Force X as they are dropped off at the remote, enemy-infused
-        island of Corto Maltese.","popularity":508.108,"poster_path":"/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg","release_date":"2021-07-28","title":"The
-        Suicide Squad","video":false,"vote_average":7.7,"vote_count":5442},{"adult":false,"backdrop_path":"/8Y43POKjjKDGI9MH89NW0NAzzp8.jpg","genre_ids":[35,28,12,878],"id":550988,"original_language":"en","original_title":"Free
-        Guy","overview":"A bank teller called Guy realizes he is a background character
-        in an open world video game called Free City that will soon go offline.","popularity":582.9,"poster_path":"/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg","release_date":"2021-08-11","title":"Free
-        Guy","video":false,"vote_average":7.7,"vote_count":4799},{"adult":false,"backdrop_path":"/pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg","genre_ids":[16,35,12,10751],"id":459151,"original_language":"en","original_title":"The
+        island of Corto Maltese.","popularity":477.616,"poster_path":"/kb4s0ML0iVZlG6wAKbbs9NAm6X.jpg","release_date":"2021-07-28","title":"The
+        Suicide Squad","video":false,"vote_average":7.7,"vote_count":5550},{"adult":false,"backdrop_path":"/pxOiKwRvNp3zFOiuwpYpzlbmEgC.jpg","genre_ids":[16,35,12,10751],"id":459151,"original_language":"en","original_title":"The
         Boss Baby: Family Business","overview":"The Templeton brothers — Tim and his
         Boss Baby little bro Ted — have become adults and drifted away from each other.
         But a new boss baby with a cutting-edge approach and a can-do attitude is
-        about to bring them together again … and inspire a new family business.","popularity":604.088,"poster_path":"/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg","release_date":"2021-07-01","title":"The
-        Boss Baby: Family Business","video":false,"vote_average":7.6,"vote_count":1730},{"adult":false,"backdrop_path":"/m3Ys7UDzUzOyoPYKzp4GhKKokUr.jpg","genre_ids":[16,10751,14,35,12],"id":585083,"original_language":"en","original_title":"Hotel
+        about to bring them together again … and inspire a new family business.","popularity":553.873,"poster_path":"/kv2Qk9MKFFQo4WQPaYta599HkJP.jpg","release_date":"2021-07-01","title":"The
+        Boss Baby: Family Business","video":false,"vote_average":7.6,"vote_count":1751},{"adult":false,"backdrop_path":"/7WJjFviFBffEJvkAms4uWwbcVUk.jpg","genre_ids":[28,12,35,14],"id":451048,"original_language":"en","original_title":"Jungle
+        Cruise","overview":"Dr. Lily Houghton enlists the aid of wisecracking skipper
+        Frank Wolff to take her down the Amazon in his dilapidated boat. Together,
+        they search for an ancient tree that holds the power to heal – a discovery
+        that will change the future of medicine.","popularity":401.031,"poster_path":"/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg","release_date":"2021-07-28","title":"Jungle
+        Cruise","video":false,"vote_average":7.6,"vote_count":3939},{"adult":false,"backdrop_path":"/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg","genre_ids":[18,80],"id":645886,"original_language":"en","original_title":"The
+        Unforgivable","overview":"A woman is released from prison after serving a
+        sentence for a violent crime and re-enters a society that refuses to forgive
+        her past.","popularity":132.976,"poster_path":"/1b3dNFDuE7i05TJlXrIC571yR01.jpg","release_date":"2021-11-24","title":"The
+        Unforgivable","video":false,"vote_average":7.6,"vote_count":1141},{"adult":false,"backdrop_path":"/mFbS5TwN95BcSEfiztdchLgTQ0v.jpg","genre_ids":[28,18,36],"id":617653,"original_language":"en","original_title":"The
+        Last Duel","overview":"King Charles VI declares that Knight Jean de Carrouges
+        settle his dispute with his squire, Jacques Le Gris, by challenging him to
+        a duel.","popularity":418.41,"poster_path":"/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg","release_date":"2021-10-13","title":"The
+        Last Duel","video":false,"vote_average":7.6,"vote_count":1720},{"adult":false,"backdrop_path":"/qBLEWvJNVsehJkEJqIigPsWyBse.jpg","genre_ids":[16,10751,14,35,12],"id":585083,"original_language":"en","original_title":"Hotel
         Transylvania: Transformania","overview":"When Van Helsing''s mysterious invention,
         the \"Monsterfication Ray,\" goes haywire, Drac and his monster pals are all
         transformed into humans, and Johnny becomes a monster. In their new mismatched
         bodies, Drac and Johnny must team up and race across the globe to find a cure
-        before it''s too late, and before they drive each other crazy.","popularity":3593.871,"poster_path":"/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg","release_date":"2022-01-13","title":"Hotel
-        Transylvania: Transformania","video":false,"vote_average":7.6,"vote_count":1434},{"adult":false,"backdrop_path":"/7WJjFviFBffEJvkAms4uWwbcVUk.jpg","genre_ids":[28,12,35,14],"id":451048,"original_language":"en","original_title":"Jungle
-        Cruise","overview":"Dr. Lily Houghton enlists the aid of wisecracking skipper
-        Frank Wolff to take her down the Amazon in his dilapidated boat. Together,
-        they search for an ancient tree that holds the power to heal – a discovery
-        that will change the future of medicine.","popularity":389.097,"poster_path":"/9dKCd55IuTT5QRs989m9Qlb7d2B.jpg","release_date":"2021-07-28","title":"Jungle
-        Cruise","video":false,"vote_average":7.6,"vote_count":3892},{"adult":false,"backdrop_path":"/kbOB9DGl8qwhDRcXOmXfmcmadeD.jpg","genre_ids":[18,80],"id":645886,"original_language":"en","original_title":"The
-        Unforgivable","overview":"A woman is released from prison after serving a
-        sentence for a violent crime and re-enters a society that refuses to forgive
-        her past.","popularity":156.751,"poster_path":"/1b3dNFDuE7i05TJlXrIC571yR01.jpg","release_date":"2021-11-24","title":"The
-        Unforgivable","video":false,"vote_average":7.6,"vote_count":1093},{"adult":false,"backdrop_path":"/mFbS5TwN95BcSEfiztdchLgTQ0v.jpg","genre_ids":[28,18,36],"id":617653,"original_language":"en","original_title":"The
-        Last Duel","overview":"King Charles VI declares that Knight Jean de Carrouges
-        settle his dispute with his squire, Jacques Le Gris, by challenging him to
-        a duel.","popularity":517.67,"poster_path":"/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg","release_date":"2021-10-13","title":"The
-        Last Duel","video":false,"vote_average":7.6,"vote_count":1629},{"adult":false,"backdrop_path":"/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg","genre_ids":[28,12,878],"id":497698,"original_language":"en","original_title":"Black
+        before it''s too late, and before they drive each other crazy.","popularity":2246.531,"poster_path":"/teCy1egGQa0y8ULJvlrDHQKnxBL.jpg","release_date":"2022-01-13","title":"Hotel
+        Transylvania: Transformania","video":false,"vote_average":7.5,"vote_count":1725},{"adult":false,"backdrop_path":"/keIxh0wPr2Ymj0Btjh4gW7JJ89e.jpg","genre_ids":[28,12,878],"id":497698,"original_language":"en","original_title":"Black
         Widow","overview":"Natasha Romanoff, also known as Black Widow, confronts
         the darker parts of her ledger when a dangerous conspiracy with ties to her
         past arises. Pursued by a force that will stop at nothing to bring her down,
         Natasha must deal with her history as a spy and the broken relationships left
-        in her wake long before she became an Avenger.","popularity":457.579,"poster_path":"/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg","release_date":"2021-07-07","title":"Black
-        Widow","video":false,"vote_average":7.5,"vote_count":6878},{"adult":false,"backdrop_path":"/eTUFS0aj81tdtz464wgGXDt7lm2.jpg","genre_ids":[53,27,9648],"id":576845,"original_language":"en","original_title":"Last
+        in her wake long before she became an Avenger.","popularity":374.274,"poster_path":"/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg","release_date":"2021-07-07","title":"Black
+        Widow","video":false,"vote_average":7.5,"vote_count":6977},{"adult":false,"backdrop_path":"/eTUFS0aj81tdtz464wgGXDt7lm2.jpg","genre_ids":[53,27,9648],"id":576845,"original_language":"en","original_title":"Last
         Night in Soho","overview":"A young girl, passionate about fashion design,
         is mysteriously able to enter the 1960s where she encounters her idol, a dazzling
         wannabe singer. But 1960s London is not what it seems, and time seems to be
-        falling apart with shady consequences.","popularity":232.052,"poster_path":"/9BzKsxBZNlqyGSpvPFqK9kTJSPV.jpg","release_date":"2021-10-21","title":"Last
-        Night in Soho","video":false,"vote_average":7.5,"vote_count":1184},{"adult":false,"backdrop_path":"/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg","genre_ids":[12,28,53],"id":370172,"original_language":"en","original_title":"No
-        Time to Die","overview":"Bond has left active service and is enjoying a tranquil
-        life in Jamaica. His peace is short-lived when his old friend Felix Leiter
-        from the CIA turns up asking for help. The mission to rescue a kidnapped scientist
-        turns out to be far more treacherous than expected, leading Bond onto the
-        trail of a mysterious villain armed with dangerous new technology.","popularity":532.463,"poster_path":"/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg","release_date":"2021-09-29","title":"No
-        Time to Die","video":false,"vote_average":7.5,"vote_count":3349},{"adult":false,"backdrop_path":"/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg","genre_ids":[53,27],"id":482373,"original_language":"en","original_title":"Don''t
-        Breathe 2","overview":"The Blind Man has been hiding out for several years
-        in an isolated cabin and has taken in and raised a young girl orphaned from
-        a devastating house fire. Their quiet life together is shattered when a group
-        of criminals kidnap the girl, forcing the Blind Man to leave his safe haven
-        to save her.","popularity":231.098,"poster_path":"/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg","release_date":"2021-08-12","title":"Don''t
-        Breathe 2","video":false,"vote_average":7.5,"vote_count":1414}],"total_pages":3,"total_results":43}'
-  recorded_at: Thu, 03 Feb 2022 15:45:45 GMT
+        falling apart with shady consequences.","popularity":196.763,"poster_path":"/ahbwIJl7T0D34m3sPKlBaCqs2xH.jpg","release_date":"2021-10-21","title":"Last
+        Night in Soho","video":false,"vote_average":7.5,"vote_count":1258}],"total_pages":3,"total_results":49}'
+  recorded_at: Wed, 16 Feb 2022 18:47:07 GMT
 - request:
     method: get
     uri: https://api.themoviedb.org/3/discover/movie?api_key=<movies_api_key>&page=2&primary_release_date.gte=2021-06-01&sort_by=vote_average.desc&vote_count.gte=1000
@@ -180,7 +178,7 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Thu, 03 Feb 2022 15:45:45 GMT
+      - Wed, 16 Feb 2022 18:47:06 GMT
       Server:
       - openresty
       Access-Control-Allow-Origin:
@@ -195,72 +193,103 @@ http_interactions:
       Vary:
       - Accept-Encoding
       X-Cache:
-      - Miss from cloudfront
+      - Hit from cloudfront
       Via:
-      - 1.1 368146333bf1a1071e8432a7d4e41e1a.cloudfront.net (CloudFront)
+      - 1.1 51391527dd8c879c45b44b119905c872.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - IAD89-C3
       X-Amz-Cf-Id:
-      - SvASCQpqymrZRN0NmTtdt-z--W6Ken472kAB9jaM3PNFQ4RFIhI8yw==
+      - mkOblXJL8NnW_zTQz1LO25pG2MfBBQoYmO3Iczy7aDAD6aarDK4l0g==
+      Age:
+      - '1'
     body:
       encoding: UTF-8
-      string: '{"page":2,"results":[{"adult":false,"backdrop_path":"/6viJBbovWxJYavdjPy7UPTLvaOS.jpg","genre_ids":[9648,27],"id":591275,"original_language":"en","original_title":"Fear
+      string: '{"page":2,"results":[{"adult":false,"backdrop_path":"/r2GAjd4rNOHJh6i6Y0FntmYuPQW.jpg","genre_ids":[12,28,53],"id":370172,"original_language":"en","original_title":"No
+        Time to Die","overview":"Bond has left active service and is enjoying a tranquil
+        life in Jamaica. His peace is short-lived when his old friend Felix Leiter
+        from the CIA turns up asking for help. The mission to rescue a kidnapped scientist
+        turns out to be far more treacherous than expected, leading Bond onto the
+        trail of a mysterious villain armed with dangerous new technology.","popularity":475.967,"poster_path":"/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg","release_date":"2021-09-29","title":"No
+        Time to Die","video":false,"vote_average":7.5,"vote_count":3454},{"adult":false,"backdrop_path":"/pUc51UUQb1lMLVVkDCaZVsCo37U.jpg","genre_ids":[53,27],"id":482373,"original_language":"en","original_title":"Don''t
+        Breathe 2","overview":"The Blind Man has been hiding out for several years
+        in an isolated cabin and has taken in and raised a young girl orphaned from
+        a devastating house fire. Their quiet life together is shattered when a group
+        of criminals kidnap the girl, forcing the Blind Man to leave his safe haven
+        to save her.","popularity":218.627,"poster_path":"/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg","release_date":"2021-08-12","title":"Don''t
+        Breathe 2","video":false,"vote_average":7.5,"vote_count":1445},{"adult":false,"backdrop_path":"/6viJBbovWxJYavdjPy7UPTLvaOS.jpg","genre_ids":[9648,27],"id":591275,"original_language":"en","original_title":"Fear
         Street: 1666","overview":"In 1666, a colonial town is gripped by a hysterical
         witch-hunt that has deadly consequences for centuries to come, and it''s up
         to teenagers in 1994 to finally put an end to their town''s curse, before
-        it''s too late.","popularity":75.337,"poster_path":"/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg","release_date":"2021-07-14","title":"Fear
-        Street: 1666","video":false,"vote_average":7.3,"vote_count":1013},{"adult":false,"backdrop_path":"/7jpj6ek9dftr3IXm7Pnq2pkhir3.jpg","genre_ids":[27,9648],"id":591274,"original_language":"en","original_title":"Fear
+        it''s too late.","popularity":75.165,"poster_path":"/rmEPtz3Ufzol2VWUAZYzOFaBio3.jpg","release_date":"2021-07-14","title":"Fear
+        Street: 1666","video":false,"vote_average":7.3,"vote_count":1023},{"adult":false,"backdrop_path":"/1Wlwnhn5sXUIwlxpJgWszT622PS.jpg","genre_ids":[10751,12,35,14],"id":585245,"original_language":"en","original_title":"Clifford
+        the Big Red Dog","overview":"As Emily struggles to fit in at home and at school,
+        she discovers a small red puppy who is destined to become her best friend.
+        When Clifford magically undergoes one heck of a growth spurt, becomes a gigantic
+        dog and attracts the attention of a genetics company, Emily and her Uncle
+        Casey have to fight the forces of greed as they go on the run across New York
+        City. Along the way, Clifford affects the lives of everyone around him and
+        teaches Emily and her uncle the true meaning of acceptance and unconditional
+        love.","popularity":703.707,"poster_path":"/oifhfVhUcuDjE61V5bS5dfShQrm.jpg","release_date":"2021-11-10","title":"Clifford
+        the Big Red Dog","video":false,"vote_average":7.3,"vote_count":1026},{"adult":false,"backdrop_path":"/7jpj6ek9dftr3IXm7Pnq2pkhir3.jpg","genre_ids":[27,9648],"id":591274,"original_language":"en","original_title":"Fear
         Street: 1978","overview":"In 1978, two rival groups at Camp Nightwing must
         band together to solve a terrifying mystery when horrors from their towns''
-        history come alive.","popularity":137.522,"poster_path":"/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg","release_date":"2021-07-08","title":"Fear
-        Street: 1978","video":false,"vote_average":7.3,"vote_count":1130},{"adult":false,"backdrop_path":"/tehpKMsls621GT9WUQie2Ft6LmP.jpg","genre_ids":[27,28,53],"id":602223,"original_language":"en","original_title":"The
+        history come alive.","popularity":103.243,"poster_path":"/5dNTxhoGDTHHGqUTdxcr4H1dqlU.jpg","release_date":"2021-07-08","title":"Fear
+        Street: 1978","video":false,"vote_average":7.3,"vote_count":1144},{"adult":false,"backdrop_path":"/tehpKMsls621GT9WUQie2Ft6LmP.jpg","genre_ids":[27,28,53],"id":602223,"original_language":"en","original_title":"The
         Forever Purge","overview":"All the rules are broken as a sect of lawless marauders
         decides that the annual Purge does not stop at daybreak and instead should
         never end as they chase a group of immigrants who they want to punish because
-        of their harsh historical past.","popularity":220.013,"poster_path":"/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg","release_date":"2021-06-30","title":"The
-        Forever Purge","video":false,"vote_average":7.3,"vote_count":1581},{"adult":false,"backdrop_path":"/u4Vm8n0suBYimsUoarqMw5vxNU8.jpg","genre_ids":[35,18,10749],"id":542178,"original_language":"en","original_title":"The
+        of their harsh historical past.","popularity":200.633,"poster_path":"/lB068qa6bQ0QKYKyC2xnYGvYjl7.jpg","release_date":"2021-06-30","title":"The
+        Forever Purge","video":false,"vote_average":7.3,"vote_count":1602},{"adult":false,"backdrop_path":"/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg","genre_ids":[35,18,878],"id":646380,"original_language":"en","original_title":"Don''t
+        Look Up","overview":"Two low-level astronomers must go on a giant media tour
+        to warn humankind of an approaching comet that will destroy planet Earth.","popularity":252.921,"poster_path":"/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg","release_date":"2021-12-07","title":"Don''t
+        Look Up","video":false,"vote_average":7.3,"vote_count":4512},{"adult":false,"backdrop_path":"/u4Vm8n0suBYimsUoarqMw5vxNU8.jpg","genre_ids":[35,18,10749],"id":542178,"original_language":"en","original_title":"The
         French Dispatch","overview":"The quirky staff of an American magazine based
         in 1970s France puts out its last issue, with stories featuring an artist
         sentenced to life imprisonment, student riots, and a kidnapping resolved by
-        a chef.","popularity":108.152,"poster_path":"/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg","release_date":"2021-10-21","title":"The
-        French Dispatch","video":false,"vote_average":7.3,"vote_count":1089},{"adult":false,"backdrop_path":"/nvxrQQspxmSblCYDtvDAbVFX8Jt.jpg","genre_ids":[35,18,878],"id":646380,"original_language":"en","original_title":"Don''t
-        Look Up","overview":"Two low-level astronomers must go on a giant media tour
-        to warn humankind of an approaching comet that will destroy planet Earth.","popularity":380.41,"poster_path":"/th4E1yqsE8DGpAseLiUrI60Hf8V.jpg","release_date":"2021-12-07","title":"Don''t
-        Look Up","video":false,"vote_average":7.3,"vote_count":4274},{"adult":false,"backdrop_path":"/k2twTjSddgLc1oFFHVibfxp2kQV.jpg","genre_ids":[28,12,14,878],"id":524434,"original_language":"en","original_title":"Eternals","overview":"The
-        Eternals are a team of ancient aliens who have been living on Earth in secret
-        for thousands of years. When an unexpected tragedy forces them out of the
-        shadows, they are forced to reunite against mankind’s most ancient enemy,
-        the Deviants.","popularity":4469.099,"poster_path":"/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg","release_date":"2021-11-03","title":"Eternals","video":false,"vote_average":7.2,"vote_count":3880},{"adult":false,"backdrop_path":"/oOZM1C3wZtsZtdidVgEazeas7U4.jpg","genre_ids":[10749,35],"id":727745,"original_language":"en","original_title":"The
+        a chef.","popularity":102.774,"poster_path":"/6JXR3KJH5roiBCjWFt09xfgxHZc.jpg","release_date":"2021-10-21","title":"The
+        French Dispatch","video":false,"vote_average":7.3,"vote_count":1140},{"adult":false,"backdrop_path":"/oOZM1C3wZtsZtdidVgEazeas7U4.jpg","genre_ids":[10749,35],"id":727745,"original_language":"en","original_title":"The
         Kissing Booth 3","overview":"It’s the summer before Elle heads to college,
         and she has a secret decision to make. Elle has been accepted into Harvard,
         where boyfriend Noah is matriculating, and also Berkeley, where her BFF Lee
-        is headed and has to decide if she should stay or not.","popularity":101.791,"poster_path":"/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg","release_date":"2021-08-11","title":"The
-        Kissing Booth 3","video":false,"vote_average":7.2,"vote_count":1330},{"adult":false,"backdrop_path":"/lV3UFPPxDIPelh46G9oySXN9Mcz.jpg","genre_ids":[10749,18],"id":744275,"original_language":"en","original_title":"After
+        is headed and has to decide if she should stay or not.","popularity":107.777,"poster_path":"/c7xcqnMDVQ5v1hJBm3AZ5YikNe6.jpg","release_date":"2021-08-11","title":"The
+        Kissing Booth 3","video":false,"vote_average":7.2,"vote_count":1336},{"adult":false,"backdrop_path":"/c6H7Z4u73ir3cIoCteuhJh7UCAR.jpg","genre_ids":[28,12,14,878],"id":524434,"original_language":"en","original_title":"Eternals","overview":"The
+        Eternals are a team of ancient aliens who have been living on Earth in secret
+        for thousands of years. When an unexpected tragedy forces them out of the
+        shadows, they are forced to reunite against mankind’s most ancient enemy,
+        the Deviants.","popularity":2594.929,"poster_path":"/bcCBq9N1EMo3daNIjWJ8kYvrQm6.jpg","release_date":"2021-11-03","title":"Eternals","video":false,"vote_average":7.2,"vote_count":4315},{"adult":false,"backdrop_path":"/lV3UFPPxDIPelh46G9oySXN9Mcz.jpg","genre_ids":[10749,18],"id":744275,"original_language":"en","original_title":"After
         We Fell","overview":"Just as Tessa''s life begins to become unglued, nothing
         is what she thought it would be. Not her friends nor her family. The only
         person that she should be able to rely on is Hardin, who is furious when he
         discovers the massive secret that she''s been keeping. Before Tessa makes
         the biggest decision of her life, everything changes because of revelations
-        about her family.","popularity":437.488,"poster_path":"/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg","release_date":"2021-09-01","title":"After
-        We Fell","video":false,"vote_average":7.2,"vote_count":1431},{"adult":false,"backdrop_path":"/8s4h9friP6Ci3adRGahHARVd76E.jpg","genre_ids":[10751,16,35,878],"id":379686,"original_language":"en","original_title":"Space
+        about her family.","popularity":479.513,"poster_path":"/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg","release_date":"2021-09-01","title":"After
+        We Fell","video":false,"vote_average":7.2,"vote_count":1489},{"adult":false,"backdrop_path":"/5MlvT4DZIdkpb7A9t375HVoiJ1v.jpg","genre_ids":[28,12,18,53],"id":646207,"original_language":"en","original_title":"The
+        Ice Road","overview":"After a remote diamond mine collapses in far northern
+        Canada, an ice road driver must lead an impossible rescue mission over a frozen
+        ocean to save the trapped miners.","popularity":77.832,"poster_path":"/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg","release_date":"2021-06-24","title":"The
+        Ice Road","video":false,"vote_average":7.2,"vote_count":1009},{"adult":false,"backdrop_path":"/8s4h9friP6Ci3adRGahHARVd76E.jpg","genre_ids":[10751,16,35,878],"id":379686,"original_language":"en","original_title":"Space
         Jam: A New Legacy","overview":"When LeBron and his young son Dom are trapped
         in a digital space by a rogue A.I., LeBron must get them home safe by leading
         Bugs, Lola Bunny and the whole gang of notoriously undisciplined Looney Tunes
         to victory over the A.I.''s digitized champions on the court. It''s Tunes
-        versus Goons in the highest-stakes challenge of his life.","popularity":355.125,"poster_path":"/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg","release_date":"2021-07-08","title":"Space
-        Jam: A New Legacy","video":false,"vote_average":7.2,"vote_count":2847},{"adult":false,"backdrop_path":"/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg","genre_ids":[878,28,12],"id":580489,"original_language":"en","original_title":"Venom:
+        versus Goons in the highest-stakes challenge of his life.","popularity":294.856,"poster_path":"/5bFK5d3mVTAvBCXi5NPWH0tYjKl.jpg","release_date":"2021-07-08","title":"Space
+        Jam: A New Legacy","video":false,"vote_average":7.1,"vote_count":2873},{"adult":false,"backdrop_path":"/vIgyYkXkg6NC2whRbYjBD7eb3Er.jpg","genre_ids":[878,28,12],"id":580489,"original_language":"en","original_title":"Venom:
         Let There Be Carnage","overview":"After finding a host body in investigative
         reporter Eddie Brock, the alien symbiote must face a new enemy, Carnage, the
-        alter ego of serial killer Cletus Kasady.","popularity":1773.983,"poster_path":"/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg","release_date":"2021-09-30","title":"Venom:
-        Let There Be Carnage","video":false,"vote_average":7.1,"vote_count":6130},{"adult":false,"backdrop_path":"/e3JXvbbWNARPqMURImTALZBHVME.jpg","genre_ids":[27,53,28],"id":760883,"original_language":"de","original_title":"Blood
+        alter ego of serial killer Cletus Kasady.","popularity":1353.033,"poster_path":"/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg","release_date":"2021-09-30","title":"Venom:
+        Let There Be Carnage","video":false,"vote_average":7.1,"vote_count":6304},{"adult":false,"backdrop_path":"/e3JXvbbWNARPqMURImTALZBHVME.jpg","genre_ids":[27,53,28],"id":760883,"original_language":"de","original_title":"Blood
         Red Sky","overview":"A woman with a mysterious illness is forced into action
         when a group of terrorists attempt to hijack a transatlantic overnight flight.
         In order to protect her son she will have to reveal a dark secret, and unleash
-        the inner monster she has fought to hide.","popularity":66.437,"poster_path":"/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg","release_date":"2021-07-23","title":"Blood
-        Red Sky","video":false,"vote_average":7.1,"vote_count":1046},{"adult":false,"backdrop_path":"/xDnFlNrNUoSKPq4uptnhYmUZNpm.jpg","genre_ids":[53,27,9648],"id":619778,"original_language":"en","original_title":"Malignant","overview":"Madison
+        the inner monster she has fought to hide.","popularity":64.701,"poster_path":"/v7aOJKI5vxCHotHvN8O7SR6SpP6.jpg","release_date":"2021-07-23","title":"Blood
+        Red Sky","video":false,"vote_average":7.1,"vote_count":1057},{"adult":false,"backdrop_path":"/xDnFlNrNUoSKPq4uptnhYmUZNpm.jpg","genre_ids":[53,27,9648],"id":619778,"original_language":"en","original_title":"Malignant","overview":"Madison
         is paralyzed by shocking visions of grisly murders, and her torment worsens
         as she discovers that these waking dreams are in fact terrifying realities
-        with a mysterious tie to her past.","popularity":137.557,"poster_path":"/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg","release_date":"2021-09-01","title":"Malignant","video":false,"vote_average":7,"vote_count":1249},{"adult":false,"backdrop_path":"/8yhWlFcJ8zCqjfCvLy3lWFuawR1.jpg","genre_ids":[878,9648],"id":579047,"original_language":"en","original_title":"Reminiscence","overview":"Nicolas
+        with a mysterious tie to her past.","popularity":131.582,"poster_path":"/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg","release_date":"2021-09-01","title":"Malignant","video":false,"vote_average":7,"vote_count":1282},{"adult":false,"backdrop_path":"/mu8RKavbv7Ml48twHQ6XVk7zw8e.jpg","genre_ids":[80,35],"id":796499,"original_language":"en","original_title":"Army
+        of Thieves","overview":"A mysterious woman recruits bank teller Ludwig Dieter
+        to lead a group of aspiring thieves on a top-secret heist during the early
+        stages of the zombie apocalypse.","popularity":406.601,"poster_path":"/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg","release_date":"2021-10-27","title":"Army
+        of Thieves","video":false,"vote_average":6.9,"vote_count":1130},{"adult":false,"backdrop_path":"/8yhWlFcJ8zCqjfCvLy3lWFuawR1.jpg","genre_ids":[878,9648],"id":579047,"original_language":"en","original_title":"Reminiscence","overview":"Nicolas
         Bannister, a rugged and solitary veteran living in a near-future Miami flooded
         by rising seas, is an expert in a dangerous occupation: he offers clients
         the chance to relive any memory they desire. His life changes when he meets
@@ -268,38 +297,19 @@ http_interactions:
         and found becomes a passionate love affair. But when a different client''s
         memories implicate Mae in a series of violent crimes, Bannister must delve
         through the dark world of the past to uncover the truth about the woman he
-        fell for.","popularity":45.783,"poster_path":"/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg","release_date":"2021-08-19","title":"Reminiscence","video":false,"vote_average":6.9,"vote_count":1032},{"adult":false,"backdrop_path":"/4suaSWLiW1Wtwtl5YfIRP41nwul.jpg","genre_ids":[28,35,53],"id":522931,"original_language":"en","original_title":"Hitman''s
+        fell for.","popularity":43.998,"poster_path":"/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg","release_date":"2021-08-19","title":"Reminiscence","video":false,"vote_average":6.9,"vote_count":1063},{"adult":false,"backdrop_path":"/cmquA5exHGsOfcVDrwitAN1EDmN.jpg","genre_ids":[28,35,53],"id":522931,"original_language":"en","original_title":"Hitman''s
         Wife''s Bodyguard","overview":"The world’s most lethal odd couple – bodyguard
         Michael Bryce and hitman Darius Kincaid – are back on another life-threatening
         mission. Still unlicensed and under scrutiny, Bryce is forced into action
         by Darius''s even more volatile wife, the infamous international con artist
         Sonia Kincaid. As Bryce is driven over the edge by his two most dangerous
         protectees, the trio get in over their heads in a global plot and soon find
-        that they are all that stand between Europe and a vengeful and powerful madman.","popularity":282.287,"poster_path":"/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg","release_date":"2021-06-14","title":"Hitman''s
-        Wife''s Bodyguard","video":false,"vote_average":6.9,"vote_count":1081},{"adult":false,"backdrop_path":"/mu8RKavbv7Ml48twHQ6XVk7zw8e.jpg","genre_ids":[80,35],"id":796499,"original_language":"en","original_title":"Army
-        of Thieves","overview":"A mysterious woman recruits bank teller Ludwig Dieter
-        to lead a group of aspiring thieves on a top-secret heist during the early
-        stages of the zombie apocalypse.","popularity":256.832,"poster_path":"/iPTZGFmPs7HsXHYxiuxGolihjOH.jpg","release_date":"2021-10-27","title":"Army
-        of Thieves","video":false,"vote_average":6.9,"vote_count":1104},{"adult":false,"backdrop_path":"/eNI7PtK6DEYgZmHWP9gQNuff8pv.jpg","genre_ids":[878,28,12],"id":624860,"original_language":"en","original_title":"The
-        Matrix Resurrections","overview":"Plagued by strange memories, Neo''s life
-        takes an unexpected turn when he finds himself back inside the Matrix.","popularity":1973.536,"poster_path":"/8c4a8kE7PizaGQQnditMmI1xbRp.jpg","release_date":"2021-12-16","title":"The
-        Matrix Resurrections","video":false,"vote_average":6.8,"vote_count":2693},{"adult":false,"backdrop_path":"/dK12GIdhGP6NPGFssK2Fh265jyr.jpg","genre_ids":[28,35,80,53],"id":512195,"original_language":"en","original_title":"Red
+        that they are all that stand between Europe and a vengeful and powerful madman.","popularity":117.632,"poster_path":"/6zwGWDpY8Zu0L6W4SYWERBR8Msw.jpg","release_date":"2021-06-14","title":"Hitman''s
+        Wife''s Bodyguard","video":false,"vote_average":6.9,"vote_count":1171},{"adult":false,"backdrop_path":"/dK12GIdhGP6NPGFssK2Fh265jyr.jpg","genre_ids":[28,35,80,53],"id":512195,"original_language":"en","original_title":"Red
         Notice","overview":"An Interpol-issued Red Notice is a global alert to hunt
         and capture the world''s most wanted. But when a daring heist brings together
         the FBI''s top profiler and two rival criminals, there''s no telling what
-        will happen.","popularity":1700.415,"poster_path":"/lAXONuqg41NwUMuzMiFvicDET9Y.jpg","release_date":"2021-11-04","title":"Red
-        Notice","video":false,"vote_average":6.8,"vote_count":2872},{"adult":false,"backdrop_path":"/fuuZFPc8x6gQ8mLGoBp9vrmcQMT.jpg","genre_ids":[27,53],"id":610253,"original_language":"en","original_title":"Halloween
-        Kills","overview":"The nightmare isn''t over as unstoppable killer Michael
-        Myers escapes from Laurie Strode''s trap to continue his ritual bloodbath.
-        Injured and taken to the hospital, Laurie fights through the pain as she inspires
-        residents of Haddonfield, to rise up against Myers. Taking matters into their
-        own hands, the Strode women and other survivors form a vigilante mob to hunt
-        down Michael and end his reign of terror once and for all.","popularity":290.298,"poster_path":"/qmJGd5IfURq8iPQ9KF3les47vFS.jpg","release_date":"2021-10-14","title":"Halloween
-        Kills","video":false,"vote_average":6.8,"vote_count":1498},{"adult":false,"backdrop_path":"/5C8bfwglg91uZhc2fbfpSjNGamV.jpg","genre_ids":[27,9648],"id":591273,"original_language":"en","original_title":"Fear
-        Street: 1994","overview":"After a series of brutal slayings, a teen and her
-        friends take on an evil force that''s plagued their notorious town for centuries.","popularity":144.982,"poster_path":"/9J9Wy39ZjrVmfk7yMkulpcI5sy0.jpg","release_date":"2021-06-28","title":"Fear
-        Street: 1994","video":false,"vote_average":6.8,"vote_count":1387},{"adult":false,"backdrop_path":"/3EmwUuGBp44hTzZGJqpzyiAmAVT.jpg","genre_ids":[14,10749,35],"id":593910,"original_language":"en","original_title":"Cinderella","overview":"Cinderella,
-        an orphaned girl with an evil stepmother, has big dreams and with the help
-        of her Fabulous Godmother, she perseveres to make them come true.","popularity":74.741,"poster_path":"/clDFqATL4zcE7LzUwkrVj3zHvk7.jpg","release_date":"2021-09-03","title":"Cinderella","video":false,"vote_average":6.6,"vote_count":1005}],"total_pages":3,"total_results":43}'
-  recorded_at: Thu, 03 Feb 2022 15:45:45 GMT
+        will happen.","popularity":1793.425,"poster_path":"/wdE6ewaKZHr62bLqCn7A2DiGShm.jpg","release_date":"2021-11-04","title":"Red
+        Notice","video":false,"vote_average":6.8,"vote_count":3002}],"total_pages":3,"total_results":49}'
+  recorded_at: Wed, 16 Feb 2022 18:47:07 GMT
 recorded_with: VCR 6.0.0

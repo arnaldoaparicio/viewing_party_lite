@@ -6,7 +6,7 @@ RSpec.describe "User Dashboard Page", type: :feature do
 
     it "should have the user name in heading + button to go to the discover movies page" do 
 
-      user1 = User.create!(name: "Joe Schmoe", email: "joeschmoe@mail.com")
+      user1 = User.create!(name: "Joe Schmoe", email: "joeschmoe@mail.com", password: '1234mac', password_confirmation: '1234mac')
 
       visit user_path(user1)
 
@@ -26,9 +26,9 @@ RSpec.describe "User Dashboard Page", type: :feature do
 
     it "should have all the viewing parties that the user has been invited to" do 
 
-      user1 = User.create!(name: "Joe Schmoe", email: "joeschmoe@mail.com")
-      user2 = User.create!(name: "Jeffrey Schmoe", email: "jeffschmoe@mail.com")
-      user3 = User.create!(name: "Moe Schmoe", email: "moeschmoe@mail.com")
+      user1 = User.create!(name: "Joe Schmoe", email: "joeschmoe@mail.com", password: '1234mac', password_confirmation: '1234mac')
+      user2 = User.create!(name: "Jeffrey Schmoe", email: "jeffschmoe@mail.com", password: 'generic123', password_confirmation: 'generic123')
+      user3 = User.create!(name: "Moe Schmoe", email: "moeschmoe@mail.com", password: 'scarymovie', password_confirmation: 'scarymovie')
 
       party1 = ViewingParty.create!(duration: 184, when: "2023/02/07", time: "9:00pm", movie_title: "Black Widow",  poster_path:"/qAZ0pzat24kLdO3o8ejmbLxyOac.jpg")
 

@@ -16,9 +16,9 @@ RSpec.describe 'home page', type: :feature do
   end
   
   it 'has links to user dashboards' do
-    user1 = User.create!(name: 'Joe Schmoe', email: 'jschmoe@mail.com')
-    user2 = User.create!(name: 'Jane Schmoe', email: 'janeschmoe@mail.com')
-    user3 = User.create!(name: 'Moe Schmoe', email: 'moeshmoe@mail.com')
+    user1 = User.create!(name: 'Joe Schmoe', email: 'jschmoe@mail.com', password: '1234mac', password_confirmation: '1234mac')
+    user2 = User.create!(name: 'Jane Schmoe', email: 'janeschmoe@mail.com', password: 'horseradish', password_confirmation: 'horseradish')
+    user3 = User.create!(name: 'Moe Schmoe', email: 'moeshmoe@mail.com', password: 'remington', password_confirmation: 'remington')
     visit ('/')
 
     within(".existing-users") do

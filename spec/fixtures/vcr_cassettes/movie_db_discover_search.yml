@@ -25,7 +25,7 @@ http_interactions:
       Connection:
       - keep-alive
       Date:
-      - Thu, 03 Feb 2022 15:45:46 GMT
+      - Wed, 16 Feb 2022 18:47:08 GMT
       Server:
       - openresty
       Access-Control-Allow-Origin:
@@ -42,11 +42,11 @@ http_interactions:
       X-Cache:
       - Miss from cloudfront
       Via:
-      - 1.1 b471d3775e81a9be536b52b99f39452a.cloudfront.net (CloudFront)
+      - 1.1 368146333bf1a1071e8432a7d4e41e1a.cloudfront.net (CloudFront)
       X-Amz-Cf-Pop:
       - IAD89-C3
       X-Amz-Cf-Id:
-      - qiwphJciwzilw7r25N2iE4f885Tn1bb24efgHTxamscDsvC_ZOWCQQ==
+      - MzrNKDMx3IJUjXy18s7vpAK3S8z88TYoTM9rktlQo_LBQdFLbSty0A==
     body:
       encoding: UTF-8
       string: '{"page":1,"results":[{"adult":false,"backdrop_path":"/6H0CfLRcgq0Pcq34wNypC2V3W41.jpg","genre_ids":[878,28,12],"id":320288,"original_language":"en","original_title":"Dark
@@ -56,8 +56,8 @@ http_interactions:
         a mysterious cosmic force. Once she returns home, this force not only makes
         her infinitely more powerful, but far more unstable. The X-Men must now band
         together to save her soul and battle aliens that want to use Grey''s new abilities
-        to rule the galaxy.","popularity":66.961,"poster_path":"/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg","release_date":"2019-06-05","title":"Dark
-        Phoenix","video":false,"vote_average":6,"vote_count":5030},{"adult":false,"backdrop_path":"/sO2VWeJ8qagNtYoznyLRL8TeSkw.jpg","genre_ids":[12,14,9648],"id":675,"original_language":"en","original_title":"Harry
+        to rule the galaxy.","popularity":71.948,"poster_path":"/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg","release_date":"2019-06-05","title":"Dark
+        Phoenix","video":false,"vote_average":6,"vote_count":5054},{"adult":false,"backdrop_path":"/sO2VWeJ8qagNtYoznyLRL8TeSkw.jpg","genre_ids":[12,14,9648],"id":675,"original_language":"en","original_title":"Harry
         Potter and the Order of the Phoenix","overview":"The rebellion begins! Lord
         Voldemort has returned, but the Ministry of Magic is doing everything it can
         to keep the wizarding world from knowing the truth – including appointing
@@ -66,83 +66,85 @@ http_interactions:
         magic, Ron and Hermione convince Harry to secretly train a select group of
         students for the wizarding war that lies ahead. A terrifying showdown between
         good and evil awaits in this enthralling film version of the fifth novel in
-        J.K. Rowling’s Harry Potter series. Prepare for battle!","popularity":206.086,"poster_path":"/tRoHysNFsXC2r0JiBL6iNHELut7.jpg","release_date":"2007-06-28","title":"Harry
-        Potter and the Order of the Phoenix","video":false,"vote_average":7.7,"vote_count":15927},{"adult":false,"backdrop_path":"/gFFs5F3nb1CRoWQ57sEA816bce0.jpg","genre_ids":[18],"id":254578,"original_language":"de","original_title":"Phoenix","overview":"A
+        J.K. Rowling’s Harry Potter series. Prepare for battle!","popularity":166.393,"poster_path":"/tRoHysNFsXC2r0JiBL6iNHELut7.jpg","release_date":"2007-06-28","title":"Harry
+        Potter and the Order of the Phoenix","video":false,"vote_average":7.7,"vote_count":15978},{"adult":false,"backdrop_path":"/gFFs5F3nb1CRoWQ57sEA816bce0.jpg","genre_ids":[18],"id":254578,"original_language":"de","original_title":"Phoenix","overview":"A
         disfigured concentration-camp survivor, unrecognizable after facial reconstruction
         surgery, searches ravaged postwar Berlin for the husband who might have betrayed
-        her to the Nazis.","popularity":8.392,"poster_path":"/AucV9Srp4eX3BmPLcQLx7AtRIQj.jpg","release_date":"2014-09-25","title":"Phoenix","video":false,"vote_average":6.7,"vote_count":315},{"adult":false,"backdrop_path":"/3RXc6plqoqXUFTsgMe41HBml9Pp.jpg","genre_ids":[27,9648,878],"id":443319,"original_language":"en","original_title":"Phoenix
+        her to the Nazis.","popularity":8.703,"poster_path":"/AucV9Srp4eX3BmPLcQLx7AtRIQj.jpg","release_date":"2014-09-25","title":"Phoenix","video":false,"vote_average":6.7,"vote_count":316},{"adult":false,"backdrop_path":"/7OJ2FUlCQKILEfPZXzqKWp3mbUA.jpg","genre_ids":[99],"id":726887,"original_language":"en","original_title":"Rising
+        Phoenix","overview":"The history and current standing of the Paralympic Games,
+        which has grown to become the world''s third largest sporting event.","popularity":15.82,"poster_path":"/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg","release_date":"2020-08-26","title":"Rising
+        Phoenix","video":false,"vote_average":8.2,"vote_count":79},{"adult":false,"backdrop_path":"/3RXc6plqoqXUFTsgMe41HBml9Pp.jpg","genre_ids":[27,9648,878],"id":443319,"original_language":"en","original_title":"Phoenix
         Forgotten","overview":"20 years after three teenagers disappeared in the wake
         of mysterious lights appearing above Phoenix, Arizona, unseen footage from
         that night has been discovered, chronicling the final hours of their fateful
-        expedition.","popularity":13.727,"poster_path":"/q0BbjmTPSqF1QnZxHNc1GQ4JIHc.jpg","release_date":"2017-04-21","title":"Phoenix
-        Forgotten","video":false,"vote_average":6,"vote_count":215},{"adult":false,"backdrop_path":"/7OJ2FUlCQKILEfPZXzqKWp3mbUA.jpg","genre_ids":[99],"id":726887,"original_language":"en","original_title":"Rising
-        Phoenix","overview":"The history and current standing of the Paralympic Games,
-        which has grown to become the world''s third largest sporting event.","popularity":16.209,"poster_path":"/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg","release_date":"2020-08-26","title":"Rising
-        Phoenix","video":false,"vote_average":8.2,"vote_count":79},{"adult":false,"backdrop_path":"/h0pxtAQCGWcArbPxqudW5NbmUNc.jpg","genre_ids":[18,53,80,10749],"id":28047,"original_language":"en","original_title":"Phoenix","overview":"Gambling
-        fever -- along with a brutal bookie -- leads three crooked cops into a double-dealing
-        scheme that lands them in hot water way over their heads.","popularity":8.204,"poster_path":"/tkppRmx4iBvAeKlopfNTO8hnKxK.jpg","release_date":"1998-09-04","title":"Phoenix","video":false,"vote_average":5.2,"vote_count":42},{"adult":false,"backdrop_path":"/ktJZuqsYfpChTVuDgk9NFsh3QKB.jpg","genre_ids":[35,18,10749],"id":15534,"original_language":"en","original_title":"Griffin
+        expedition.","popularity":11.637,"poster_path":"/q0BbjmTPSqF1QnZxHNc1GQ4JIHc.jpg","release_date":"2017-04-21","title":"Phoenix
+        Forgotten","video":false,"vote_average":6,"vote_count":215},{"adult":false,"backdrop_path":"/ktJZuqsYfpChTVuDgk9NFsh3QKB.jpg","genre_ids":[35,18,10749],"id":15534,"original_language":"en","original_title":"Griffin
         & Phoenix","overview":"A terminally ill man falls in love with a woman who
-        has a secret that threatens their time spent together.","popularity":7.587,"poster_path":"/kL1Jh2ahQH62SLDETwD2TpDhljP.jpg","release_date":"2006-09-12","title":"Griffin
-        & Phoenix","video":false,"vote_average":7.2,"vote_count":127},{"adult":false,"backdrop_path":"/mWXU29QjfjEG37d0c2hE11MWRGq.jpg","genre_ids":[28,12,18,53],"id":11866,"original_language":"en","original_title":"Flight
+        has a secret that threatens their time spent together.","popularity":7.749,"poster_path":"/kL1Jh2ahQH62SLDETwD2TpDhljP.jpg","release_date":"2006-09-12","title":"Griffin
+        & Phoenix","video":false,"vote_average":7.2,"vote_count":128},{"adult":false,"backdrop_path":"/mWXU29QjfjEG37d0c2hE11MWRGq.jpg","genre_ids":[28,12,18,53],"id":11866,"original_language":"en","original_title":"Flight
         of the Phoenix","overview":"When an oil rig in the Gobi Desert of Mongolia
         proves unproductive, an aircraft crew are sent to shut the operation down.
         However, on their way to Beijing, a major dust storm forces them to crash
-        their C-119 Flying Boxcar in an uncharted area of the desert.","popularity":12.643,"poster_path":"/pcj6unMsKCw0ogWFlUXmbc9gKap.jpg","release_date":"2004-12-17","title":"Flight
-        of the Phoenix","video":false,"vote_average":6,"vote_count":666},{"adult":false,"backdrop_path":"/ndx5KCJZ6X3NV9qg5FVz6obJh83.jpg","genre_ids":[27,53,878],"id":321039,"original_language":"en","original_title":"The
+        their C-119 Flying Boxcar in an uncharted area of the desert.","popularity":14.497,"poster_path":"/pcj6unMsKCw0ogWFlUXmbc9gKap.jpg","release_date":"2004-12-17","title":"Flight
+        of the Phoenix","video":false,"vote_average":6,"vote_count":669},{"adult":false,"backdrop_path":"/h0pxtAQCGWcArbPxqudW5NbmUNc.jpg","genre_ids":[18,53,80,10749],"id":28047,"original_language":"en","original_title":"Phoenix","overview":"Gambling
+        fever -- along with a brutal bookie -- leads three crooked cops into a double-dealing
+        scheme that lands them in hot water way over their heads.","popularity":5.291,"poster_path":"/tkppRmx4iBvAeKlopfNTO8hnKxK.jpg","release_date":"1998-09-04","title":"Phoenix","video":false,"vote_average":5.2,"vote_count":42},{"adult":false,"backdrop_path":"/61cz8dZkyIo9m5bVwwfrYcvVZiK.jpg","genre_ids":[12],"id":10243,"original_language":"en","original_title":"The
+        Flight of the Phoenix","overview":"A cargo aircraft crashes in a sandstorm
+        in the Sahara with less than a dozen men on board. One of the passengers is
+        an airplane designer who comes up with the idea of ripping off the undamaged
+        wing and using it as the basis for a replacement aircraft they will build
+        to escape before their food and water run out.","popularity":13.144,"poster_path":"/zrzLl7NWdjwGhVE7bqpOAxMVtF.jpg","release_date":"1965-12-15","title":"The
+        Flight of the Phoenix","video":false,"vote_average":7.2,"vote_count":221},{"adult":false,"backdrop_path":"/ndx5KCJZ6X3NV9qg5FVz6obJh83.jpg","genre_ids":[27,53,878],"id":321039,"original_language":"en","original_title":"The
         Phoenix Incident","overview":"A number of ''missing person'' cases are reported
         in Phoenix, Arizona when an unexplained light appears in the sky one night
-        in 1997.","popularity":6.409,"poster_path":"/2EWUeUO4IyiKwlX14XLUiCRMUNa.jpg","release_date":"2015-06-16","title":"The
+        in 1997.","popularity":5.957,"poster_path":"/2EWUeUO4IyiKwlX14XLUiCRMUNa.jpg","release_date":"2015-06-16","title":"The
         Phoenix Incident","video":false,"vote_average":5.2,"vote_count":43},{"adult":false,"backdrop_path":"/3cQ8tuIcuQQqfO9yzIesE6i11Oi.jpg","genre_ids":[99],"id":926283,"original_language":"en","original_title":"Phoenix
         Rising","overview":"Evan Rachel Wood is no stranger to the screen. From Westworld
         to her latest performance in Kajillionaire, audiences have watched her grow.
         But in this arrestingly intimate portrait of her experience as a domestic
         violence survivor turned activist, we finally hear her with the clarity she
-        deserves.","popularity":6.364,"poster_path":null,"release_date":"2022-01-24","title":"Phoenix
-        Rising","video":false,"vote_average":0,"vote_count":1},{"adult":false,"backdrop_path":"/61cz8dZkyIo9m5bVwwfrYcvVZiK.jpg","genre_ids":[12],"id":10243,"original_language":"en","original_title":"The
-        Flight of the Phoenix","overview":"A cargo aircraft crashes in a sandstorm
-        in the Sahara with less than a dozen men on board. One of the passengers is
-        an airplane designer who comes up with the idea of ripping off the undamaged
-        wing and using it as the basis for a replacement aircraft they will build
-        to escape before their food and water run out.","popularity":9.897,"poster_path":"/zrzLl7NWdjwGhVE7bqpOAxMVtF.jpg","release_date":"1965-12-15","title":"The
-        Flight of the Phoenix","video":false,"vote_average":7.2,"vote_count":220},{"adult":false,"backdrop_path":"/2wEk1MWDQA25PdqUlG7OVbx8sjT.jpg","genre_ids":[],"id":109928,"original_language":"en","original_title":"Phoenix","overview":"Inspired
+        deserves.","popularity":6.114,"poster_path":null,"release_date":"2022-01-24","title":"Phoenix
+        Rising","video":false,"vote_average":0,"vote_count":1},{"adult":false,"backdrop_path":"/yxdPv51GWwP7MUoy7sJsQzp6i2L.jpg","genre_ids":[18,10770],"id":252735,"original_language":"en","original_title":"Griffin
+        and Phoenix","overview":"Griffin has been diagnosed with terminal cancer.
+        Instead of quietly facing his death, he decides to have fun in the time remaining.
+        At a college class on death, he meets Phoenix, who has terminal leukemia.","popularity":2.627,"poster_path":"/i77whLCPR0p1tXplwswMapZmQv7.jpg","release_date":"1976-02-27","title":"Griffin
+        and Phoenix","video":false,"vote_average":5.3,"vote_count":7},{"adult":false,"backdrop_path":"/2wEk1MWDQA25PdqUlG7OVbx8sjT.jpg","genre_ids":[],"id":109928,"original_language":"en","original_title":"Phoenix","overview":"Inspired
         by Michelangelo Antonioni''s 1961 classic L''Avventura, Michael Akers'' \"PHOENIX\"
         is infused with symbolism and a sexy spark. Dylan Wells (Chad Edward Bartley)
         has a good job, a great apartment and an exciting relationship with Ken Sparks
         (Gaetano Jones, Boystown), his sexy well traveled boyfriend who just might
         be \"the one.\" A great life, or so he believes, until Ken''s visit for Dylan''s
         23rd birthday party is unexpectedly cut short when Ken is suddenly called
-        away to tend to a failing real estate deal, and then disappears.","popularity":3.209,"poster_path":"/9xbTvpmkQEZZCJ7JSB5ZZbATrDU.jpg","release_date":"2006-01-30","title":"Phoenix","video":false,"vote_average":5.1,"vote_count":10},{"adult":false,"backdrop_path":"/r1SKoJwyvvUTL80vkEP0L4kJmXH.jpg","genre_ids":[28,14,878],"id":26440,"original_language":"en","original_title":"Phoenix
+        away to tend to a failing real estate deal, and then disappears.","popularity":2.202,"poster_path":"/9xbTvpmkQEZZCJ7JSB5ZZbATrDU.jpg","release_date":"2006-01-30","title":"Phoenix","video":false,"vote_average":5.1,"vote_count":10},{"adult":false,"backdrop_path":"/r1SKoJwyvvUTL80vkEP0L4kJmXH.jpg","genre_ids":[28,14,878],"id":26440,"original_language":"en","original_title":"Phoenix
         the Warrior","overview":"Big hair, big guns, big personalities, and a serious
         lack of wardrobe. She-Wolves of the Wasteland, a post-apocalyptic story that
         features women--lots and lots of women--who leave little to the imagination
         as they battle each other in various junkyards and gravel pits to determine
-        the fate of the entire world.","popularity":3.625,"poster_path":"/o1IFFOMM14zZPIOTFYTIk6JhoVq.jpg","release_date":"1988-10-31","title":"Phoenix
-        the Warrior","video":false,"vote_average":3.5,"vote_count":13},{"adult":false,"backdrop_path":"/ePh5TtbWn4QHNWzh4wq5gB8b85e.jpg","genre_ids":[878,18],"id":312131,"original_language":"en","original_title":"The
+        the fate of the entire world.","popularity":2.891,"poster_path":"/o1IFFOMM14zZPIOTFYTIk6JhoVq.jpg","release_date":"1988-10-31","title":"Phoenix
+        the Warrior","video":false,"vote_average":3.3,"vote_count":14},{"adult":false,"backdrop_path":"/Oar4ImyY2K258nMNwt6sIDjQ8R.jpg","genre_ids":[],"id":565059,"original_language":"en","original_title":"NXT
+        TakeOver: Phoenix","overview":"One night before Royal Rumble 2019 comes to
+        the Talking Stick Resort Arena in Phoenix, the Superstars of NXT will take
+        center stage when TakeOver: Phoenix airs Saturday, Jan. 26.","popularity":3.879,"poster_path":"/qNkjkpHv2davoXBIQ5qG3a5fcvD.jpg","release_date":"2019-01-26","title":"NXT
+        TakeOver: Phoenix","video":true,"vote_average":8,"vote_count":10},{"adult":false,"backdrop_path":null,"genre_ids":[18],"id":818938,"original_language":"fr","original_title":"Phoenix","overview":"Freewheeling
+        film celebrating both sexual and stylistic fluidity. Phoenix literally changes
+        colour as the characters circle one another. A medical student who sometimes
+        rents out a room in his house receives a visit from a young woman he was romantically
+        involved with the previous summer. But he shows little interest in her – mainly
+        because he’s now in love with Harry.","popularity":1.96,"poster_path":"/ykiF7aoLqOym9jRGH93vD2ljgzv.jpg","release_date":"2021-06-02","title":"Phoenix","video":false,"vote_average":0,"vote_count":0},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":166868,"original_language":"en","original_title":"Code
+        Name: Phoenix","overview":"A Hong Kong martial artist joins forces with a
+        U.S. marshal in 2020 to stop the release of a virus that halts the aging process.","popularity":2.661,"poster_path":"/55r5EzjqdvUBpECQzyHFRQke4CQ.jpg","release_date":"2000-03-02","title":"Code
+        Name: Phoenix","video":false,"vote_average":4,"vote_count":1},{"adult":false,"backdrop_path":"/ePh5TtbWn4QHNWzh4wq5gB8b85e.jpg","genre_ids":[878,18],"id":312131,"original_language":"en","original_title":"The
         Phoenix Project","overview":"Four scientists craft a machine to reanimate
-        deceased organisms.","popularity":4.431,"poster_path":"/23T44yf2J8OYBt4tDOa7r1xv7NG.jpg","release_date":"2015-01-16","title":"The
-        Phoenix Project","video":false,"vote_average":4.2,"vote_count":19},{"adult":false,"backdrop_path":"/yxdPv51GWwP7MUoy7sJsQzp6i2L.jpg","genre_ids":[18,10770],"id":252735,"original_language":"en","original_title":"Griffin
-        and Phoenix","overview":"Griffin has been diagnosed with terminal cancer.
-        Instead of quietly facing his death, he decides to have fun in the time remaining.
-        At a college class on death, he meets Phoenix, who has terminal leukemia.","popularity":2.647,"poster_path":"/i77whLCPR0p1tXplwswMapZmQv7.jpg","release_date":"1976-02-27","title":"Griffin
-        and Phoenix","video":false,"vote_average":5.3,"vote_count":7},{"adult":false,"backdrop_path":"/lbjuHNhg9GtQnAizkpQXnDz7GXC.jpg","genre_ids":[18],"id":299998,"original_language":"en","original_title":"Watch
+        deceased organisms.","popularity":3.435,"poster_path":"/23T44yf2J8OYBt4tDOa7r1xv7NG.jpg","release_date":"2015-01-16","title":"The
+        Phoenix Project","video":false,"vote_average":4.2,"vote_count":19},{"adult":false,"backdrop_path":"/aGthEeKJkA7SYctCVe8DIzxhjEp.jpg","genre_ids":[35],"id":582246,"original_language":"en","original_title":"Phoenix,
+        Oregon","overview":"Defying the haze of mid-life, two friends seize an unlikely
+        opportunity to reinvent their lives, quitting their jobs to restore an old
+        bowling alley and serve the \"world’s greatest pizza.\"","popularity":1.807,"poster_path":"/wiwUfIwL10kkvNPLyKYajlEY137.jpg","release_date":"2019-04-11","title":"Phoenix,
+        Oregon","video":false,"vote_average":5.4,"vote_count":9},{"adult":false,"backdrop_path":"/lbjuHNhg9GtQnAizkpQXnDz7GXC.jpg","genre_ids":[18],"id":299998,"original_language":"en","original_title":"Watch
         Phoenix Rise","overview":"Watch Phoenix Rise is the tale of a young lady named
         Phoenix who is just another \"pretty face\" in the hood until she decides
         to become an \"urban model\" . where she discovers that her growing fame has
-        a downside as it tests her relationships with friends and family.","popularity":2.272,"poster_path":"/8VHmhVXaQV1htJ18L070FviMf9e.jpg","release_date":"2014-01-11","title":"Watch
-        Phoenix Rise","video":false,"vote_average":0,"vote_count":0},{"adult":false,"backdrop_path":"/jMptDjXGYmKYLmOoT3IGYZ6Xh5L.jpg","genre_ids":[878,28],"id":26358,"original_language":"fr","original_title":"Phoenix","overview":"When
-        a mining colony is taken over by genetically altered androids, an elite attack
-        team is sent in to take down the android leader.","popularity":1.624,"poster_path":"/lJ48HI1gXhKckoAQwm2iytUQAYk.jpg","release_date":"1995-01-01","title":"Phoenix","video":false,"vote_average":3.5,"vote_count":4},{"adult":false,"backdrop_path":null,"genre_ids":[878],"id":357705,"original_language":"en","original_title":"Phoenix
-        Point","overview":"When the apocalypse arrives, it takes the form of a biochemical
-        virus. All social structures break down and a new world order emerges from
-        the heart of the desert. As chaos sets in, we follow the adventures of some
-        unlikely survivors, all searching for the elusive cure at Phoenix Point.","popularity":2.986,"poster_path":"/ngPykHAmDdsiOxdNE20YXZukQk4.jpg","release_date":"2005-01-20","title":"Phoenix
-        Point","video":false,"vote_average":1.3,"vote_count":3},{"adult":false,"backdrop_path":null,"genre_ids":[],"id":166868,"original_language":"en","original_title":"Code
-        Name: Phoenix","overview":"A Hong Kong martial artist joins forces with a
-        U.S. marshal in 2020 to stop the release of a virus that halts the aging process.","popularity":2.4,"poster_path":"/55r5EzjqdvUBpECQzyHFRQke4CQ.jpg","release_date":"2000-03-02","title":"Code
-        Name: Phoenix","video":false,"vote_average":4,"vote_count":1},{"adult":false,"backdrop_path":"/aGthEeKJkA7SYctCVe8DIzxhjEp.jpg","genre_ids":[35],"id":582246,"original_language":"en","original_title":"Phoenix,
-        Oregon","overview":"Defying the haze of mid-life, two friends seize an unlikely
-        opportunity to reinvent their lives, quitting their jobs to restore an old
-        bowling alley and serve the \"world’s greatest pizza.\"","popularity":1.723,"poster_path":"/wiwUfIwL10kkvNPLyKYajlEY137.jpg","release_date":"2019-04-11","title":"Phoenix,
-        Oregon","video":false,"vote_average":5.4,"vote_count":9}],"total_pages":10,"total_results":188}'
-  recorded_at: Thu, 03 Feb 2022 15:45:46 GMT
+        a downside as it tests her relationships with friends and family.","popularity":1.469,"poster_path":"/8VHmhVXaQV1htJ18L070FviMf9e.jpg","release_date":"2014-01-11","title":"Watch
+        Phoenix Rise","video":false,"vote_average":0,"vote_count":0}],"total_pages":10,"total_results":192}'
+  recorded_at: Wed, 16 Feb 2022 18:47:08 GMT
 recorded_with: VCR 6.0.0

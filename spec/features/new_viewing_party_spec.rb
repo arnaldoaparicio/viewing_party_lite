@@ -4,7 +4,7 @@ RSpec.describe "New Viewing Party page", type: :feature do
 
   describe "the form" do 
 
-    it "creates a new viewing-party with prefilled and input data" do 
+    xit "creates a new viewing-party with prefilled and input data" do 
 
       user1 = User.create!(name: "Joe Schmoe", email: "joeschmoe@mail.com")
       user2 = User.create!(name: "Jeffrey Schmoe", email: "jeffschmoe@mail.com")

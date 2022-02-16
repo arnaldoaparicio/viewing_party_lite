@@ -11,6 +11,8 @@ RSpec.describe "User Registration page", type: :feature do
 
     fill_in 'Name', with: "Jeffrey Schmoe"
     fill_in 'Email', with: "jeffschmoe@mail.com"
+    fill_in 'Password', with: 'test123'
+    fill_in 'Password Confirmation', with: 'test123'
 
     click_button "Register"
 
@@ -19,11 +21,13 @@ RSpec.describe "User Registration page", type: :feature do
 
   it "validates uniqueness of email field" do 
 
-    user1 = User.create!(name: "Jeffrey Schmoe", email: "jeffschmoe@mail.com")
+    user1 = User.create!(name: "Jeffrey Schmoe", email: "jeffschmoe@mail.com", password: 'test123', password_confirmation: 'test123')
     visit '/register'
 
     fill_in 'Name', with: "Jeffrey Schmoe"
     fill_in 'Email', with: "jeffschmoe@mail.com"
+    fill_in 'Password', with: 'test123'
+    fill_in 'Password Confirmation', with: 'test123'
 
     click_button "Register"
    
