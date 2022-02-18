@@ -2,12 +2,12 @@
 
 <h2>Top Rated Movies</h2>
 
-<%= button_to 'Discover Page', "/users/#{@user.id}/discover", method: :get %>
+<%= button_to 'Discover Page', "/discover", method: :get %>
 
 <div>
 <% @m_data.each do |movie| %>
     <div class="movie">
-        <span class="original_title"><%= link_to movie.original_title, "/users/#{@user.id}/movies/#{movie.id}" %></span>
+        <span class="original_title"><%= link_to movie.original_title, "/movies/#{movie.id}" %></span>
         <span class="vote_average">Vote Average: <%= movie.vote_average %></span>
     </div>
 <% end %>
