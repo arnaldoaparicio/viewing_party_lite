@@ -8,15 +8,17 @@ Rails.application.routes.draw do
   
   get '/dashboard', to: 'users#show'
 
-  get '/users/:id/discover', to: 'users#discover'
-  get '/users/:id/movies', to: 'movies#results'
+  get '/discover', to: 'users#discover'
+  get '/movies', to: 'movies#results'
 
-  get '/users/:id/movies/:movie_id', to: 'movies#details'
+  get '/movies/:movie_id', to: 'movies#details'
   
-  get '/users/:id/movies/:movie_id/viewing-party/new', to: 'viewing_party#new'
-  post '/users/:id/movies/:movie_id/viewing-party/new', to: 'viewing_party#create'
+  get '/movies/:movie_id/viewing-party/new', to: 'viewing_party#new'
+  post '/movies/:movie_id/viewing-party/new', to: 'viewing_party#create'
 
   get '/login', to: 'users#login_form'
   post '/login', to: 'users#login_user'
+
+  delete '/logout', to: 'users#destroy'
   
 end
