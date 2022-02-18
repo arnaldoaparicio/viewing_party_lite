@@ -1,8 +1,9 @@
 <h1>Viewing Party Lite</h1>
+<% if current_user %>
 <h2><%= @user.name %>'s Dashboard</h2>
 
 <div class="movie-discovery">
-  <%= button_to "Discover Movies", "/users/#{@user.id}/discover", method: :get %>
+  <%= button_to "Discover Movies", "/discover", method: :get %>
 </div>
 
 <div class="viewing-parties">
@@ -22,4 +23,5 @@
         <% end %>
     <% end %>
   <% end %>
+ <% end %>
 </div>
