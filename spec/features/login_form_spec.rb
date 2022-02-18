@@ -13,7 +13,7 @@ RSpec.describe 'Viewing Party User Login Form' do
     fill_in 'Password', with: 'test123'
 
     click_button 'Login'
-    expect(current_path).to eq(user_path(user1))
+    expect(current_path).to eq('/dashboard')
   end
 
   it 'unsuccessfully logs in user' do
