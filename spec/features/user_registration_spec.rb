@@ -15,7 +15,7 @@ RSpec.describe 'User Registration page', type: :feature do
 
     click_button 'Register'
 
-    expect(current_path).to eq(user_path(User.last.id))
+    expect(current_path).to eq('/dashboard')
   end
 
   it 'validates uniqueness of email field' do
@@ -41,7 +41,7 @@ RSpec.describe 'User Registration page', type: :feature do
     fill_in 'Password Confirmation', with: 'usic123'
 
     click_button 'Register'
-    
+
     expect(page).to have_content('Password and password confirmation do not match')
   end
 end
