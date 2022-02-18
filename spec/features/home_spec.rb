@@ -23,24 +23,24 @@ RSpec.describe 'home page', type: :feature do
     user3 = User.create!(name: 'Moe Schmoe', email: 'moeshmoe@mail.com', password: 'remington',
                          password_confirmation: 'remington')
     visit('/')
-
+    allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user1)
+    
     within('.existing-users') do
       expect(page).to have_link("#{user1.email}'s Dashboard")
     end
+    
     click_link "#{user1.email}'s Dashboard"
-    expect(current_path).to eq("/users/#{user1.id}")
+    expect(current_path).to eq('/dashboard')
   end
-
+  
   it 'has a login link' do
     user1 = User.create!(name: 'Joe Schmoe', email: 'jschmoe@mail.com', password: '1234mac',
-                         password_confirmation: '1234mac')
-    visit '/'
+      password_confirmation: '1234mac')
+      visit '/'
+      # allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user1)
     expect(page).to have_link('Login')
-      save_and_open_page
     click_link 'Login'
 
     expect(current_path).to eq('/login')
-
-
   end
 end
