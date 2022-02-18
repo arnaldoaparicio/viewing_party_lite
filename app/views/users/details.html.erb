@@ -2,9 +2,9 @@
 
 <h2><%= @movie.original_title %></h2>
 
-<%= button_to "Discover Page", "/users/#{@user.id}/discover", method: :get %>
+<%= button_to "Discover Page", "/discover", method: :get %>
 
-<%= button_to "Create Viewing Party for #{@movie.original_title}", "/users/#{@user.id}/movies/#{@movie.id}/viewing-party/new", method: :get%>
+<%= button_to "Create Viewing Party for #{@movie.original_title}", "/movies/#{@movie.id}/viewing-party/new", method: :get%>
 
 <div class="quick-stats">
   <p>Vote Average: <%= @movie.vote_average %></p>
