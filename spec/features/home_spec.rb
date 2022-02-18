@@ -36,7 +36,6 @@ RSpec.describe 'home page', type: :feature do
                          password_confirmation: '1234mac')
     visit '/'
     expect(page).to have_link('Login')
-      save_and_open_page
     click_link 'Login'
 
     expect(current_path).to eq('/login')
