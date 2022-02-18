@@ -8,8 +8,8 @@ RSpec.describe 'movies results page', type: :feature do
       VCR.use_cassette('movie_db_discover_top_rated') do
         
         user1 = User.create!(name: 'Joe Schmoe', email: 'jschmoe1@mail.com', password: '1234mac', password_confirmation: '1234mac')
-
-        visit("/users/#{user1.id}/discover")
+        allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user1)
+        visit("/discover")
 
         click_button 'Find Top Rated Movies'
         
@@ -30,7 +30,8 @@ RSpec.describe 'movies results page', type: :feature do
       VCR.use_cassette('movie_db_discover_search') do
         
         user1 = User.create!(name: 'Joe Schmoe', email: 'jschmoe1@mail.com', password: '1234mac', password_confirmation: '1234mac')
-        visit("/users/#{user1.id}/discover")
+        allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user1)
+        visit("/discover")
 
         fill_in :query, with: "Phoenix"
 
