@@ -1,8 +1,8 @@
 class UsersController < ApplicationController
   def show
     if !current_user.nil?
-    @user = User.find(current_user.id)
-    else 
+      @user = User.find(current_user.id)
+    else
       flash[:alert] = 'You must be logged in or registered to asccess dashboard'
     end
   end
